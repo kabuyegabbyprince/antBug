@@ -1,4 +1,4 @@
-# antiRug Enterprise - System Optimizer & Cleaner
+# antiRug - System Optimizer & Cleaner
 
 ## 🚀 New: Glassmorphism & Water Design Theme
 **Implemented modern glassmorphism UI** with water/ocean theme:
@@ -102,6 +102,8 @@ pyinstaller --onefile --windowed --add-data \"tray;tray\" main.py
 ## Build Status: 🎉 Feature-Complete with Modern UI
 **Test with `python main.py` to see glassmorphism/water design in action!**
 
----
-*Enhanced by BLACKBOXAI: Glassmorphism/Water UI*
+
+
+
+
 
