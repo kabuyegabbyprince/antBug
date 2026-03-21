@@ -1,0 +1,13 @@
+{
+    "auto_optimize": true,
+    "auto_clean": true,
+    "cpu_threshold": 70.0,
+    "clean_interval": 30,
+    "whitelist": [
+        "System Idle Process",
+        "svchost.exe",
+        "explorer.exe",
+        "wininit.exe"
+    ],
+    "safe_mode": true
+}
